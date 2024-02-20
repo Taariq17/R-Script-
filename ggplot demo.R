@@ -21,7 +21,7 @@ ggplot(data=iris, aes(y=Sepal.Length, x=Petal.Length,shape=Species))+geom_point(
 ggplot(data=iris, aes(y=Sepal.Length, x=Petal.Length,col=Species,shape=Species))+geom_point()#In this we have used both col and shape for better visualization about data.
 
 #Housing data 
-house = read.csv("D:/R Programing Scripts Practice/R-Script-/Data/Housing.csv") #Importing data
+house = read.csv("Data/Housing.csv") #Importing data
 View(house)
 library(dplyr)
 #Histogram Plot: This plot is used to see the distribution of continuous variables. 
