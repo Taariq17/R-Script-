@@ -1,0 +1,5 @@
+                       Types Of Analysis
+
+1. Univariate Analysis  = Analysis of a single variable
+2. Bivariate Analysis   = Analysis of a two variable
+3. Multivariate Analaysis = Analysis of more than two variables.
